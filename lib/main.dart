@@ -16,6 +16,6 @@ class MyApp extends StatelessWidget {
             useMaterial3: true,
             scaffoldBackgroundColor: AppColor.bgColor,
             fontFamily: "Poppins"),
-        home: const SmartHomeScreen());
+        home: SmartHomeScreen());
   }
 }

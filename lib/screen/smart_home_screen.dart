@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:smarthome/constants/app_colors.dart';
 import 'package:smarthome/model/smart_home_model.dart';
 
-import 'custom_drawer.dart';
+import '../widget/custom_drawer.dart';
 import 'room_card.dart';
 
 class SmartHomeScreen extends StatefulWidget {
